@@ -12,9 +12,7 @@ namespace UsingInject.Controllers
     {
         public IActionResult Index()
         {
-           CustomersServices cs = new CustomersServices();
-            var allCS = cs.GetAllCustomersData();
-            return View(allCS);
+          
         }
     }
 }
