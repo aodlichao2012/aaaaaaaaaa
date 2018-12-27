@@ -1,0 +1,20 @@
+H:\งาน MVC vc#\UsingInject\obj\Debug\netcoreapp2.0\UsingInject.csproj.CoreCompileInputs.cache
+H:\งาน MVC vc#\UsingInject\obj\Debug\netcoreapp2.0\UsingInject.AssemblyInfoInputs.cache
+H:\งาน MVC vc#\UsingInject\obj\Debug\netcoreapp2.0\UsingInject.AssemblyInfo.cs
+H:\งาน MVC vc#\UsingInject\bin\Debug\netcoreapp2.0\UsingInject.deps.json
+H:\งาน MVC vc#\UsingInject\bin\Debug\netcoreapp2.0\UsingInject.runtimeconfig.json
+H:\งาน MVC vc#\UsingInject\bin\Debug\netcoreapp2.0\UsingInject.runtimeconfig.dev.json
+H:\งาน MVC vc#\UsingInject\bin\Debug\netcoreapp2.0\UsingInject.dll
+H:\งาน MVC vc#\UsingInject\bin\Debug\netcoreapp2.0\UsingInject.pdb
+H:\งาน MVC vc#\UsingInject\obj\Debug\netcoreapp2.0\UsingInject.dll
+H:\งาน MVC vc#\UsingInject\obj\Debug\netcoreapp2.0\UsingInject.pdb
+F:\etc\งาน MVC vc# and web api\UsingInject\bin\Debug\netcoreapp2.0\UsingInject.deps.json
+F:\etc\งาน MVC vc# and web api\UsingInject\bin\Debug\netcoreapp2.0\UsingInject.runtimeconfig.json
+F:\etc\งาน MVC vc# and web api\UsingInject\bin\Debug\netcoreapp2.0\UsingInject.runtimeconfig.dev.json
+F:\etc\งาน MVC vc# and web api\UsingInject\bin\Debug\netcoreapp2.0\UsingInject.dll
+F:\etc\งาน MVC vc# and web api\UsingInject\bin\Debug\netcoreapp2.0\UsingInject.pdb
+F:\etc\งาน MVC vc# and web api\UsingInject\obj\Debug\netcoreapp2.0\UsingInject.csproj.CoreCompileInputs.cache
+F:\etc\งาน MVC vc# and web api\UsingInject\obj\Debug\netcoreapp2.0\UsingInject.AssemblyInfoInputs.cache
+F:\etc\งาน MVC vc# and web api\UsingInject\obj\Debug\netcoreapp2.0\UsingInject.AssemblyInfo.cs
+F:\etc\งาน MVC vc# and web api\UsingInject\obj\Debug\netcoreapp2.0\UsingInject.dll
+F:\etc\งาน MVC vc# and web api\UsingInject\obj\Debug\netcoreapp2.0\UsingInject.pdb

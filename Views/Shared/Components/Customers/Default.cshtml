@@ -1,0 +1,10 @@
+@model IEnumerable<UsingInject.Models.Customers>
+
+<h2>ลูกค้าใน : @Model.FirstOrDefault().Address</h2>
+<ul>
+    @foreach (var c in Model)
+    {
+        <li>@($"{c.ID} {c.FullName} ({c.Gender})")</li>
+
+    }
+</ul>

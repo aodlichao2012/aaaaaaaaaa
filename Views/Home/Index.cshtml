@@ -1,0 +1,36 @@
+﻿@model IEnumerable<UsingInject.Models.Customers>
+@inject UsingInject.Services.CustomersStatServices csStat
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h2>ข้อมูลลูกค้า</h2>
+<div>
+    <table border="1">
+        <tr>
+            <td style="width:20%">รหัส</td>
+            <td style="width:60%">ชื่อ-สกุล</td>
+            <td style="width:10%">เพศ</td>
+            <td style="width:10%">ที่อยู่</td>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ID</td>
+                <td>@item.FullName</td>
+                <td>@item.Gender</td>
+                <td>@item.Address</td>
+            </tr>
+        }
+    </table>
+
+    <p>
+        <h3>สถิติลูกค้า</h3>
+        ลูกค้าทั้งหมด : @await csStat.GetCustomersCount() คน <br/>
+        เพศชาย : @await csStat.GetCustomersCountByGender("M") คน <br/>
+        เพศหญิง : @await csStat.GetCustomersCountByGender("F") คน <br/>
+        เฉพาะกรุงเทพ : @await csStat.GetCustomersCountByAddress("กรุงเทพ") คน <br/>
+    </p>
+
+</div>
